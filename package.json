@@ -6,7 +6,7 @@
     "scripts": {
     "start": "node run"
   },
-  "engines"{
+  "engines":{
     "node":"4.1.1",
     "npm":"2.1.x"
   },
