@@ -12,6 +12,8 @@ exports.start = function(){
 
 	});
 
+	app.use('/site', express.static('site'));
+
 	app.listen(port, function(){
 
 		console.log('Server running');
