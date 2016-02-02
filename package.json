@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "run.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "scripts": {
+    "start": "node run"
+  },
+  "engines"{
+    "node":"4.1.1",
+    "npm":"2.1.x"
   },
   "repository": {
     "type": "git",
