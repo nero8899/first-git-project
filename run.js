@@ -1,7 +1,7 @@
+var server = require('./server');
+function init() {
 
-function(init) {
-
-
+	server.start();
 }
 
 init();
